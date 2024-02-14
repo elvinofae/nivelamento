@@ -1,0 +1,7 @@
+
+Blog/Blog.Api/bin/Debug/net7.0/AutoMapper.dll
+
+*bin
+*debug
+*.vs
+*obj
